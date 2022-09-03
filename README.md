@@ -1,6 +1,6 @@
 # ineuron-assign-01
 
-![badge](https://img.shields.io/badge/MADE%20WITH-HTML%20%26%20CSS-blue)
+![badge](https://img.shields.io/badge/%20HTML%20%26%20CSS-blue)
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-2--5hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://ineuron-assign-1.netlify.app/)
 [![badge](https://img.shields.io/badge/%20🚀%20-Profile-yellow)](https://santosmmu.netlify.app/)
